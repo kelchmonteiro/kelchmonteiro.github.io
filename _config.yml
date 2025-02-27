@@ -8,7 +8,7 @@ middle_name:
 last_name: Monteiro
 contact_note: >
   You can contact me on LinkeIn.
-description: A simple place to fuse info about me.  # the ">" symbol means to ignore newlines until "footer_text:"
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with modifitcations on <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme made by me.
