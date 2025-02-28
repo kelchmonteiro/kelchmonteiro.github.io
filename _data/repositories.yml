@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - kelchmonteiro
+  - mathjax
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
+  - pythonclub/pythonclub.github.io
+  - Wolfterro/Projetos-em-Python
+  - vrios/Intro-Linguagem-R
+  - kelvins/algorithms-and-data-structures
   - FortAwesome/Font-Awesome
   - mathjax/MathJax
   - jpswalsh/academicons
