@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Cloud Analyst| Cloud Engineer | Infrastructure | Statistics | Systems Analysis and Development |
+subtitle: Cloud Infrastructure | Statistics | Systems Analysis and Development |
 
 profile:
   align: right
@@ -32,4 +32,5 @@ Strong problem-solving skills on AWS and experience supporting **big data operat
 
 Skilled on AWS, OCI, GCP and Azure Cloud Providers, Terraform, Docker and Jenkins. Worked on projects implementing Data Security and Governance as well as implementing and supporting Data Infrastructures such as Data lakes, Data Warehousing and Lakehouse. DAMA-DMBOK guy. Cultured on CI/CD, Devops, it's frameworks and tools. Python programmer, R enthusiast and Bash Script user.
 
-Student of Statistics in final stretch. Also studying Systems Analysis and Development in mid-course. I'm father, 13 years married, 25k/week runner, weekend surfer and enthusiastic music player. Also love to learn languages.
+Student of Statistics in final stretch. Also studying Systems Analysis and Development in mid-course. Technical accounting associate and analytical vision since 2010. I'm father, 13 years married, 25k/week runner, weekend surfer, music player and enthusiastic for foreign languages learning.
+
