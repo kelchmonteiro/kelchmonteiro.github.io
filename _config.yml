@@ -124,11 +124,12 @@ disqus_shortname: # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: medium.com
-    rss_url: 
-  - name: Google
+    rss_url: https://medium.com/@codex/feed #/@al-folio/ before
+  - name: Prof Silvio Meira
     posts:
-      - url: 
-        published_date: 2025-08-03
+      - url: https://silvio.meira.com/tres-grandes-rupturas-agora/
+        published_date: 2025-02-08
+        # before was https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/  Google Blog
 
 # -----------------------------------------------------------------------------
 # Newsletter
