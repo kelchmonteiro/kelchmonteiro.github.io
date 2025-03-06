@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
@@ -25,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "The most used or studied repositories till now.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -456,25 +449,18 @@ ninja.data = [{
           window.open("https://open.spotify.com/user/kelchmonteiro", "_blank");
         },
       },{
-        id: 'social-skoob_userid',
-        title: 'Skoob_userid',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
-        },
-      },{
-        id: 'social-runtastic_userid',
-        title: 'Runtastic_userid',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
-        },
-      },{
         id: 'social-strava',
         title: 'Strava',
         section: 'Socials',
         handler: () => {
           window.open("https://www.strava.com/athletes/kelchmonteiro", "_blank");
+        },
+      },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.skoob.com.br/usuario/5725019", "_blank");
         },
       },{
       id: 'light-theme',
