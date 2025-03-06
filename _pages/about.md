@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Cloud Infrastructure | Statistics | Systems Analysis and Development |
+subtitle: Cloud Infrastructure | Statistics | Systems Analysis and Development | Terraform
 
 profile:
   align: right
