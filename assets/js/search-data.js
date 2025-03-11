@@ -453,7 +453,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.skoob.com.br/usuario/5725019", "_blank");
+          window.open("https://www.cloudskillsboost.google/public_profiles/812978f3-4dc0-4c24-86aa-8b07ad5a082d", "_blank");
         },
       },{
       id: 'light-theme',
