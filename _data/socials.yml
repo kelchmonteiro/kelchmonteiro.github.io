@@ -48,7 +48,7 @@ strava_userid: kelchmonteiro
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
+custom_social1: # can be any name here other than the ones already defined above
   logo: https://raw.githubusercontent.com/kelchmonteiro/kelchmonteiro.github.io/refs/heads/main/assets/img/skoob_pb_logo.png
   #logo: https://static-sp.skoob.com.br/css/v3/img/coruja-skoob-27-off.png # can be png, svg, jpg
   title: Skoob Leituras
