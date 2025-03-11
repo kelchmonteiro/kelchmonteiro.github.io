@@ -53,7 +53,7 @@ custom_social: # can be any name here other than the ones already defined above
   #logo: https://static-sp.skoob.com.br/css/v3/img/coruja-skoob-27-off.png # can be png, svg, jpg
   title: Skoob Leituras
   url: https://www.skoob.com.br/usuario/5725019
-custom_social1:
-  logo: https://github.com/kelchmonteiro/kelchmonteiro.github.io/blob/main/assets/img/logo_gcp_cloud_skills_boost.png
+custom_social:
+  logo: https://raw.githubusercontent.com/kelchmonteiro/kelchmonteiro.github.io/refs/heads/main/assets/img/logo_gcp_cloud_skills_boost.png
   title: GCP Skill Boost
   url: https://www.cloudskillsboost.google/public_profiles/812978f3-4dc0-4c24-86aa-8b07ad5a082d
