@@ -449,6 +449,13 @@ ninja.data = [{
           window.open("https://www.strava.com/athletes/kelchmonteiro", "_blank");
         },
       },{
+        id: 'social-custom_sociala',
+        title: 'Custom_sociala',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.skoob.com.br/usuario/5725019", "_blank");
+        },
+      },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
